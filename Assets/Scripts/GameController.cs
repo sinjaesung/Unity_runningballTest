@@ -18,6 +18,8 @@ public class GameController : MonoBehaviour
 
     private void Awake()
     {
+        //github 파일변경 테스트
+
         IsGameStart = false;
 
         textTitle.enabled = true;
